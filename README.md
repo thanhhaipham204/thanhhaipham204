@@ -122,8 +122,7 @@
 ## 📫 Connect With Me
 
 - GitHub: [thanhhaipham204](https://github.com/thanhhaipham204)
-- Facebook: [Thêm link Facebook của bạn](#)
-- Email: **thêm-email-của-bạn@gmail.com**
+- Email:Phamthanhhai241@gmai.com
 
 ---
 
