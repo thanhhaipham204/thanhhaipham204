@@ -15,17 +15,15 @@
 
 ## 🚀 About Me
 
-- 🎮 Tôi thích làm **game, mobile app, web app**
-- 📱 Quan tâm nhiều đến **Flutter, React Native, Android, ReactJS**
-- 💡 Yêu thích giao diện đẹp, hiện đại, có chất **gaming / neon / cyber**
+- 🎮 Tôi thích làm **mobile app, web app**
+- 📱 Quan tâm nhiều đến **Flutter, Android, ReactJS**
+- 💡 Yêu thích giao diện đẹp, hiện đại
 - 🧠 Luôn muốn vừa code tốt vừa làm sản phẩm có trải nghiệm ổn
-- 🔥 Mục tiêu: phát triển mạnh theo hướng **Game + Mobile Developer**
+- 🔥 Mục tiêu: phát triển mạnh theo hướng **Mobile Developer**
 
 ---
 
 ## 🧰 Tech Arsenal
-
-### 🎮 Game Development
 <p>
   <img src="https://skillicons.dev/icons?i=unity,cs,cpp&theme=dark" />
 </p>
