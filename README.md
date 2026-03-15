@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">🎮 Phạm Huy Thanh Hải ⚡</h1>
-<h3 align="center">Game Developer • Mobile Developer • Web Developer</h3>
+<h3 align="center">• Mobile Developer • Web Developer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/thanhhaipham204?style=for-the-badge&color=00F7FF&labelColor=0D1117" />
