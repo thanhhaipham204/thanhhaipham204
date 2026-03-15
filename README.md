@@ -29,8 +29,7 @@ Tôi quan tâm đến:
 
 ## 🎯 Định hướng hiện tại
 
-- **Chính:** Flutter
-- **Đang làm:** Web Development
+- **Chính:** Flutter,Web Development
 - **Đang học thêm:** React Native ở mức cơ bản
 - **Mục tiêu:** phát triển mạnh theo hướng **Mobile Developer / Flutter Developer**
 
