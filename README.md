@@ -1,126 +1,89 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=950&lines=PHAM+HUY+THANH+HAI;FULL-STACK+DEVELOPER;REACT+%7C+NODE.JS+%7C+ASP.NET+CORE;BUILDING+MODERN+WEB+APPLICATIONS" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<h1 align="center">Phạm Huy Thanh Hải</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Pham+Huy+Thanh+Hai+%F0%9F%91%8B;Full-stack+Developer;React+%E2%80%A2+Node.js+%E2%80%A2+ASP.NET+Core;Building+useful+web+applications" alt="Typing SVG" />
 
-<p align="center">
-  <b>Full-stack Developer</b> •
-  <b>React / TypeScript</b> •
-  <b>Node.js / Express.js</b> •
-  <b>ASP.NET Core</b>
-</p>
+### Full-stack Developer
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/thanhhaipham204?style=for-the-badge&color=0ea5e9&labelColor=111827" />
-  <img src="https://img.shields.io/github/stars/thanhhaipham204?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=0ea5e9&labelColor=111827" />
-  <img src="https://img.shields.io/badge/Focus-Full--stack%20Web%20Development-0ea5e9?style=for-the-badge&labelColor=111827" />
-</p>
+`React` • `TypeScript` • `Node.js` • `ASP.NET Core` • `SQL Server` • `MongoDB`
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thanhhaipham204&label=Profile%20Views&color=0ea5e9&style=flat" />
-</p>
+<br>
 
----
+<a href="https://github.com/thanhhaipham204">
+  <img src="https://img.shields.io/badge/GitHub-thanhhaipham204-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:phamthanhhai241@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-## 👋 About Me
+<br><br>
 
-Xin chào, tôi là **Phạm Huy Thanh Hải**, sinh viên Công nghệ Thông tin tại **HUTECH**, dự kiến tốt nghiệp vào **tháng 01/2027**.
+<img src="https://komarev.com/ghpvc/?username=thanhhaipham204&label=Profile+Views&color=0ea5e9&style=flat-square" />
 
-Tôi định hướng phát triển theo **Full-stack Web Development**, tập trung vào việc xây dựng ứng dụng web từ giao diện người dùng đến backend, REST API và database.
-
-Tôi đã có kinh nghiệm thực tập Full-stack Developer tại **YOOT Technology and Training Co., Ltd.**, làm việc với **React, TypeScript, Node.js, Express.js và MongoDB**.
-
-Bên cạnh đó, tôi cũng phát triển dự án cá nhân bằng **C# và ASP.NET Core 8 MVC**, tập trung vào authentication, role-based authorization, booking workflows và xử lý xung đột dữ liệu.
+</div>
 
 ---
 
-## 🎯 Current Focus
+## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-Frontend-2563eb?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-Backend-16a34a?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-Backend-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Full--stack-Development-0f766e?style=for-the-badge" />
-</p>
+I'm **Phạm Huy Thanh Hải**, an Information Technology student at **HUTECH**, expected to graduate in **January 2027**.
 
-- Building full-stack web applications
-- Designing and consuming REST APIs
-- Authentication and role-based authorization
-- SQL and NoSQL database development
-- Improving backend architecture and application design
+I focus on **Full-stack Web Development**, building applications from frontend interfaces to backend APIs and database layers.
+
+- 💼 Full-stack Developer Intern at **YOOT Technology and Training Co., Ltd.**
+- ⚛️ Building frontend applications with **React & TypeScript**
+- 🟢 Developing REST APIs with **Node.js & Express.js**
+- 🔷 Building web applications with **C# & ASP.NET Core**
+- 🗄️ Working with **SQL Server & MongoDB**
+- 🔐 Interested in authentication, authorization and backend architecture
 
 ---
 
-## 🌐 Frontend Development
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite&theme=light" />
-</p>
+<div align="center">
 
-- React
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- React Router
-- Axios
-- Vite
-- REST API Integration
+### Frontend
 
----
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite&theme=dark" />
 
-## ⚙️ Backend Development
+<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet&theme=light" />
-</p>
+`React` `TypeScript` `JavaScript` `HTML5` `CSS3` `Tailwind CSS`  
+`React Router` `Axios` `Vite`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/REST%20API-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core%20Identity-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-</p>
+<br>
 
-- Node.js
-- Express.js
-- C#
-- ASP.NET Core 8 MVC
-- REST API Development
-- JWT Authentication
-- ASP.NET Core Identity
-- Role-based Authorization
+### Backend
 
----
+<img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet&theme=dark" />
 
-## 🗄️ Databases
+<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=light" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</p>
+`Node.js` `Express.js` `C#` `ASP.NET Core 8 MVC`  
+`REST API` `JWT` `ASP.NET Core Identity`
 
-- SQL Server
-- Entity Framework Core
-- MongoDB
-- Mongoose
-- Database Transactions
-- Data Validation
+<br>
 
----
+### Database
 
-## 🧰 Development Tools
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=light" />
-</p>
+<br>
 
-- Git
-- GitHub
-- Postman
-- Visual Studio Code
-- Visual Studio
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+
+<br>
+
+`MongoDB` `Mongoose` `SQL Server` `Entity Framework Core`
+
+<br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio&theme=dark" />
+
+</div>
 
 ---
 
@@ -128,130 +91,107 @@ Bên cạnh đó, tôi cũng phát triển dự án cá nhân bằng **C# và AS
 
 ### Full-stack Developer Intern
 **YOOT Technology and Training Co., Ltd.**  
-*May 2026 – July 2026*
+`May 2026 – July 2026`
 
 - Developed customer-facing pages and admin modules using **React, TypeScript and Tailwind CSS**
-- Built REST APIs with **Node.js and Express.js**
-- Worked with **MongoDB and Mongoose**
-- Implemented **JWT authentication and role-based access control**
-- Connected frontend workflows with backend APIs
-- Used **Git and GitHub** for source control
+- Built REST APIs using **Node.js and Express.js**
+- Designed and worked with **MongoDB / Mongoose** data models
+- Implemented **JWT authentication and role-based authorization**
+- Integrated frontend workflows with backend APIs
+- Used **Git & GitHub** for source control
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 📅 Service Booking System
+## 🌍 Thang Long Travel
 
-**Appointment & Staff Management System**
+> Full-stack Tour Booking & Travel Management System
 
-<p>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square" />
-</p>
+<div align="center">
 
-A full-stack appointment booking and staff management application developed independently using **ASP.NET Core 8 MVC**.
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-#### Main Features
+</div>
 
-- 5-step appointment booking flow
-- Service and category management
-- Staff availability management
-- Staff time-off management
-- Appointment status tracking
-- Admin / Staff / Customer roles
-- KPI dashboard
-- Authentication with ASP.NET Core Identity
-- Booking conflict prevention
-- Database transactions
-- SQL Server application locks
+A travel booking platform developed during my internship at **YOOT**, supporting both customer and administrator workflows.
 
-👉 [View Repository](https://github.com/thanhhaipham204/ServiceBookingSystem)
+### ✨ Highlights
 
----
+- 🔎 Tour search and filtering
+- ⚖️ Tour comparison
+- ❤️ Favorite tours
+- 🧳 Online booking
+- 📜 Booking history
+- 👤 User account management
+- 🔐 JWT authentication
+- 🧾 PDF booking invoices
+- 🤖 AI-powered travel assistant
+- 📊 Admin revenue reporting
 
-### 🌍 Thang Long Travel
+<div align="center">
 
-**Tour Booking & Travel Management System**
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/thanhhaipham204/thang-long-travel)
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
-
-A full-stack travel booking platform developed during my internship at **YOOT**.
-
-#### Customer Features
-
-- Tour search and filtering
-- Tour details
-- Tour comparison
-- Favorite tours
-- Online booking
-- Booking history
-- User account management
-- PDF booking invoices
-- AI-powered travel assistant
-
-#### Admin Features
-
-- Tour management
-- Booking management
-- User management
-- Review management
-- Revenue reporting
-- Booking confirmation
-
-#### Tech Stack
-
-`React` `TypeScript` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Tailwind CSS`
-
-👉 [View Repository](https://github.com/thanhhaipham204/thang-long-travel)
+</div>
 
 ---
 
-## 🧠 What I'm Improving
+## 📅 Service Booking System
 
-- Writing cleaner and more maintainable code
-- Designing better REST APIs
-- Improving ASP.NET Core backend development
-- Strengthening React and TypeScript skills
-- Database design and optimization
-- Authentication and authorization
-- Software architecture fundamentals
-- Building production-oriented projects
+> Appointment & Staff Management System
 
----
+<div align="center">
 
-## 📊 GitHub Stats
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET_Core_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=thanhhaipham204&show_icons=true&theme=transparent&hide_border=true" />
-</p>
+</div>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhaipham204&layout=compact&theme=transparent&hide_border=true" />
-</p>
+An independently developed appointment booking system built with **ASP.NET Core 8 MVC**.
 
----
+### ✨ Highlights
 
-## 📫 Contact
+- 📅 5-step appointment booking workflow
+- 👨‍💼 Staff scheduling and availability
+- 🏖️ Staff time-off management
+- 🔄 Appointment status tracking
+- 👥 Admin / Staff / Customer authorization
+- 📊 KPI dashboard
+- 🔐 ASP.NET Core Identity authentication
+- 🛡️ Booking conflict prevention
+- 💾 Database transactions
+- 🔒 SQL Server application locks
 
-<p align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-thanhhaipham204-111827?style=for-the-badge&logo=github)](https://github.com/thanhhaipham204)
-
-[![Email](https://img.shields.io/badge/Email-phamthanhhai241%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phamthanhhai241@gmail.com)
-
-</p>
+> Repository link will be added when the project is publicly available.
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2400&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile;Keep+learning+%E2%80%A2+Keep+building+%E2%80%A2+Keep+improving" alt="Footer Typing SVG" />
-</p>
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api?username=thanhhaipham204&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhaipham204&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Currently Improving
+
+```text
+Backend Architecture   ███████░░░
+ASP.NET Core           ███████░░░
+React / TypeScript     ████████░░
+REST API Design        ███████░░░
+Database Design        ███████░░░
